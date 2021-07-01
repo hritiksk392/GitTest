@@ -1,0 +1,54 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    padding: 10px;
+}
+
+ul li {
+    margin-bottom: 20px;
+}
+
+ul li:after {
+    content: "";
+    flex-direction: none;
+    height: 1px;
+    width: 100%;
+    background: black;
+}
+
+
+
+.card {
+    width: 100%;
+}
+
+.card-body {
+    background: rgb(56, 54, 54);
+    color: white;
+}
+
+.container {
+
+    border: 2px solid rgb(2, 73, 2);
+}
+
+select {
+    width: 100%;
+}
+
+.card {
+    border: 2px solid red;
+}
+.filter{
+    border: 2px solid red; 
+}
+.search input[type=text] {
+    width: 60%;
+  }
+  
