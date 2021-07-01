@@ -1,0 +1,34 @@
+#Sample Text for checking
+multiline comments #
+
+
+int ex23 = 456;
+
+string s = "this is an string example";
+
+
+int faa(int p){
+	
+	int p = 2*3;
+	int a;
+	p = a + p;
+	a = p&a;
+	if(p>=a){
+	 p = p+2;
+	}
+
+	while(i!=p)
+	{
+		print("something here");
+
+		if(i==a)
+		break;
+
+		i = i+ 1;
+
+	}
+
+
+	return p;
+
+}

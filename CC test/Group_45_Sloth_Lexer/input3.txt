@@ -1,0 +1,25 @@
+ 
+ #Input file 3 for checking errors#
+
+ void testFun34(int ap1,int ap2,int 23apl){
+ 	bool ans = false;
+ 	if(!ap1){
+ 	print( "ap = zero");
+ 	}
+ 	else{
+ 	print ("Not zero");
+ 	}
+
+ 	ap1 = ap1/10;
+
+ 	ap2 = ap1^ap2;
+
+ 	if(ap1 == ap2) {
+ 		ans= true;
+ 	}
+
+ 	string pstring34 = "our ans is 
+ 	return ans;
+
+
+ }
